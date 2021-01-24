@@ -1,5 +1,5 @@
 - titulo
-Lista de cursos de DevOps da Alura
+Lista de Cursos de DevOps da Alura
 
 - lista
 Vagrant
