@@ -1,5 +1,5 @@
-- titulo 14:32
-Cursos da Alura 
+- titulo
+Cursos de DevOps da Alura
 
 - lista
 Vagrant
