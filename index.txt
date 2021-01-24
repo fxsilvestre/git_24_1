@@ -6,3 +6,4 @@ Vagrant
 Docker
 Ansible
 Integração Contínua
+Kubernetes
