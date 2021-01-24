@@ -3,7 +3,7 @@ Cursos da Alura
 
 - lista
 Vagrant
-Docker
+Curso de Docker: Criando containers sem dor de cabeça
 Ansible
 Integração Contínua
 Kubernetes
